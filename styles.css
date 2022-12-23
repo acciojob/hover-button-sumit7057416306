@@ -1,8 +1,9 @@
-
 #btn{
     border-radius: 5px;
     background-color: black;
     color: white;
+    border: none;
+    padding: none;
     border: none;
 }
 #btn:hover{
